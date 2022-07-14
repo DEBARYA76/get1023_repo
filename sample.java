@@ -1,4 +1,4 @@
-class Sample
+class sample
 {
 public static void main()
 {
